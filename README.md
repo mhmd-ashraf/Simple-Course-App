@@ -1,2 +1,2 @@
-# Simple-Course-App
-Simple Courses Application using .net
+# Simple-Customers-App
+Simple Customers Application using .net
